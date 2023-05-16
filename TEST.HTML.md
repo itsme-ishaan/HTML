@@ -80,6 +80,28 @@
        </table></div>
        <p1 class="cat" style="color:blueviolet">Abbrevation</p1>
        <p2 class="cat">Abbrevation</p2>
+       <!-- label for attribute == input id -->
+       <form>
+          <label for="email">Enter Email ID:</label>
+          <input type="text" id="email> ">
+          <br/>
+          <br/>
+          <label for="password">Enter Password</label>
+          <input type="text" id="password">
+          <br/>
+          <br/>
+          <label for="Check">Male</label>
+          <input type="radio" id="Check">
+          <label for="Check">Female</label>
+          <input type="radio" id="Check">
+          <br/> 
+          <br/>
+          <label for="Select">Hindi</label>
+          <input type="checkbox" id="Select">
+          </br>
+         </br>
+          <input type="submit" value="Login">
+       </form>
       </body>
       <body style="background-color : rgb(41, 0, 243)">
          <h1>
