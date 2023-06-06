@@ -1,8 +1,10 @@
-<!DOCTYPE html>
-<html lang="en">
+  <!DOCTYPE html> 
+  <html lang="en">
   <head>
      <title>My First Website</title>
+     <link rel="shortcut icon" href="../webDEV/Ishaan.jpg" type="image/x-icon">
   </head>
+
   <header style="color :brown"><h1>Header</h1></header>
   <body style="background-color : rgb(243, 178, 0)">
      <!-- This is heading tag with special character.-->
@@ -112,6 +114,7 @@
           </br>
           <textarea name="TextArea" id="TextArea" cols="50" rows="10" placeholder="Enter Text Here ..." style="background-color:rgb(106, 0, 255)"></textarea>
           </br>
+          <audio src="http://commondatastorage.googleapis.com/codeskulptor-demos/DDR_assets/Sevish_-__nbsp_.mp3" controls></audio>
           </br>
           <label for="FileSelector"></label>
           <input type="file" name="FileSelector" id="FileSelect"></br></br>
@@ -120,9 +123,16 @@
        </form>
       </body>
       <body style="background-color : rgb(41, 0, 243)">
-         <h1>
+         <iframe width="260" src="https://www.youtube.com/embed/gcgoLPwZKR8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+         <!--iframe-->
+         <iframe width="260" src="https://www.youtube.com/embed/drtl3l6-38A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
            <b>
-              <p1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, pariatur.</p1>
+              <br>
+              <p1>Thankyou So Much for visiting our web prototype. We hope to see you again. </p1>
+              
+
              <table border="2">
                <tr>
                   <td><h3><a href="https://www.google.com" style="color:blue">Help    </a></h3></td>
